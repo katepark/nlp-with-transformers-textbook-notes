@@ -7,7 +7,7 @@ This repository contains my notes from Hugging Face's O'Reilly book [Natural Lan
 I ran notebooks on Google Colab and commented throughout if I changed anything. Scroll to end of notebook for other insights :)
 
 * Chapter 01. This chapter was very straightforward. My only advice being to use the Colab notebook (vs. setting up everything locally)
-* Chapter 02. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17ceCwNVIfve6ltm3YDH15VqgFQdEXDuA) Scroll to end for Case Study on "Tesla"
+* Chapter 02. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17ceCwNVIfve6ltm3YDH15VqgFQdEXDuA) Scroll to end for Case Study on "Tesla". Using chapter 02, I started extending my "Laughbot" (classifying humor) here https://github.com/katepark/laughbot-transformer
 
 <!--End of table-->
 
