@@ -4,11 +4,7 @@ This repository contains my notes from Hugging Face's O'Reilly book [Natural Lan
 
 ## Getting started
 
-I ran notebooks on Google Colab :)
-
-### Running on a cloud platform
-
-<!--This table is automatically generated, do not fill manually!-->
+I ran notebooks on Google Colab and commented throughout if I changed anything. Scroll to end of notebook for other insights :)
 
 * Chapter 01 
 * Chapter 02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17ceCwNVIfve6ltm3YDH15VqgFQdEXDuA)
