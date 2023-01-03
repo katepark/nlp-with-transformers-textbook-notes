@@ -15,7 +15,7 @@ I ran notebooks on Google Colab and commented throughout if I changed anything. 
 
 ## Citations
 
-Citing the text book book with BibTeX entry:
+Citing the text book with BibTeX entry:
 
 ```
 @book{tunstall2022natural,
