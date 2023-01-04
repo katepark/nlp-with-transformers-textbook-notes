@@ -9,6 +9,7 @@ I ran notebooks on Google Colab and commented throughout if I changed anything. 
 * Chapter 01. This chapter was very straightforward. My only advice being to use the Colab notebook (vs. setting up everything locally)
 * Chapter 02. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17ceCwNVIfve6ltm3YDH15VqgFQdEXDuA) Scroll to end for Case Study on "Tesla". Using chapter 02, I started extending my "Laughbot" (classifying humor) here https://github.com/katepark/laughbot-transformer
 * Chapter 03. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x990ATYy4tcP_o90s1aZfWUaQWW0Jtpm#scrollTo=zJreJb75yh0C) Scroll to end for implementions of Decoder Layer (ie. GPT) and Encoder-Decoder Layer (ie. T5) from scratch
+* Chapter 04 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qeQ5yRQtvlLqrm0tmBUY9f8tSSvLVqjP#scrollTo=XHTWPQWp4zuw) At end, I include my takeaways and the steps I would take to compare XLM-R to Mad-X. 
 
 
 <!--End of table-->
